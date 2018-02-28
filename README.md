@@ -6,7 +6,7 @@ It's designed to be a mix between the usual Google log in screen, and the log in
 
 ### Screenshot
 
-![](http://uk.omg.li/VE7v/69938074-bdf6-443d-bbeb-85f0a9f2f6de.png)
+![](https://d2ffutrenqvap3.cloudfront.net/items/1S2A1r3X1R3P3S2l3J47/69938074-bdf6-443d-bbeb-85f0a9f2f6de.png)
 
 ### Features
 
